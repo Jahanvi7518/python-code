@@ -1,0 +1,2 @@
+sum = lambda x,y,z:x+y+z
+print("sum of all parameer",sum(4,6,8))
