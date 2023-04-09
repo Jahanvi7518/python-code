@@ -1,0 +1,5 @@
+import random
+list=['my','girl','is ','intelligent']
+print("orginal list is :",list)
+random.shuffle(list)
+print("reverse list is :",list)
