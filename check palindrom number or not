@@ -1,0 +1,6 @@
+N=input("ENTER THE STRING:")
+reverse=N[::-1]
+if reverse==N:
+    print("this is palindrom number")
+else:
+    print("this is not palindrom number")
